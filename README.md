@@ -35,11 +35,12 @@ Here are some ideas to get you started:
 <img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" />
 <img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" />
 <img align="left" alt="Github" width="30px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1653544861~hmac=8a00f63fb101fb5a3917fbb127fa57c3" />
+<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+<img align="left" alt="Github" width="30px" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1658208337~hmac=9eae51c5898d82ed52b4a814be95b1fc" />
 <img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
 <img align="left" alt="Github" width="40px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
 <img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+
 
 <br/>
 <br/>
