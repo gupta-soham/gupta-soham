@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 #  **Hi there, I'm Soham Gupta 👋**
 <br/>
 
+![Profile views](https://gpvc.arturio.dev/gupta-soham) 
+![Github Followers](https://img.shields.io/github/followers/gupta-soham?label=Followers&logo=GitHub&style=for-the-badge)
+<br/>
+
 ##  Conect With Me 💬
 
 [<img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gupta-soham) 
