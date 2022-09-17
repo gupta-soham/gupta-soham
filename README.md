@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/gupta-soham) 
 ![Github Followers](https://img.shields.io/github/followers/gupta-soham?label=Followers&logo=GitHub&style=for-the-badge)
 <br/>
+<hr>
 
 ##  Conect With Me 💬
 
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Website" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" />](https://coolbro.bio.link) 
 
 <br/>
+<hr>
 
 ##  Languages and Tools I use 🛠️
 <img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" />
@@ -46,6 +48,7 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+<hr>
 
 ##  Buy Me A Coffee! ☕
 <a href="https://www.buymeacoffee.com/sohamgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
