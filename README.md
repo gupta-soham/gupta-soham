@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 <br/>
 <hr>
 
+[![@sohamgupta's Holopin board](https://holopin.me/sohamgupta)](https://holopin.io/@sohamgupta)
+
+<br/>
+<hr>
+
 ##  Conect With Me 💬
 
 [<img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gupta-soham) 
