@@ -72,13 +72,47 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Docker" width="70px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
 
+<br />
+<br />
+
+---
+
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
-<br/>
+---
+
+<!-- ## 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+<br />
+ ---
+
+<details>
+  <summary>Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
+3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>GitHub Stats</summary>
+
+  <img align="left" alt="Soham Gupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gupta-soham&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 &hide=stars &theme=tokyonight" />
+
+</details>
+
+<br />
 <hr>
+
 
 ##  Buy Me A Coffee! ☕
 <a href="https://www.buymeacoffee.com/sohamgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
