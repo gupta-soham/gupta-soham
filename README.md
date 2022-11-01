@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" />
 
-<img align="left" alt="Kubernetes" width="50px" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" />
+<img align="left" alt="Kubernetes" width="50px" src="https://user-images.githubusercontent.com/97831613/199302495-69cf68f3-17a2-482d-8314-f8ba11f678e0.png" />
 
 <img align="left" alt="Docker" width="70px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
 
@@ -90,20 +90,6 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:END -->
 
 <br />
- ---
-
-<details>
-  <summary>Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/codeSTACKr/minter-dapp/pull/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-2. 🗣 Commented on [#120](https://github.com/codeSTACKr/minter-dapp/issues/120) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-3. ❌ Closed PR [#191](https://github.com/codeSTACKr/create-10k-nft-collection/pull/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#191](https://github.com/codeSTACKr/create-10k-nft-collection/issues/191) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. 🎉 Merged PR [#204](https://github.com/codeSTACKr/create-10k-nft-collection/pull/204) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>GitHub Stats</summary>
@@ -117,6 +103,7 @@ Here are some ideas to get you started:
 
 
 ##  Buy Me A Coffee! ☕
+
 <a href="https://www.buymeacoffee.com/sohamgupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br/>
