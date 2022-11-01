@@ -12,11 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#  **Hi there, I'm Soham Gupta 👋**
+##  **Hi there, I'm Soham Gupta 👋**
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with people and learn from their mistakes
+- 🥅 2022 Goals: Learn about Open Source
+- ⚡ Fun fact: I love to travel a lot 🗺️ 🛫
+
 <br/>
 
 ![Profile views](https://gpvc.arturio.dev/gupta-soham) 
-![Github Followers](https://img.shields.io/github/followers/gupta-soham?label=Followers&logo=GitHub&style=for-the-badge)
+<!-- ![Github Followers](https://img.shields.io/github/followers/gupta-soham?label=Followers&logo=GitHub&style=for-the-badge) -->
 <br/>
 <hr>
 
@@ -25,31 +30,51 @@ Here are some ideas to get you started:
 <br/>
 <hr>
 
-##  Conect With Me 💬
+##  **Conect With Me 💬**
 
-[<img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gupta-soham) 
-[<img align="left" alt="Twitter" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/twitter-dark.svg" />](https://twitter.com/_soham_gupta) 
-[<img align="left" alt="LinkedIN" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" />](https://linkedin.com/in/soham-gupta-in) 
-[<img align="left" alt="Instagram" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/instagram-dark.svg" />](https://instagram.com/_soham_gupta) 
-[<img align="left" alt="YouTube" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/youtube-dark.svg" />](https://www.youtube.com/channel/UCPsRTWjuoocFwf6JhZvRrSQ?view_as=subscriber?sub_confirmation=1)
-[<img align="left" alt="Telegram" width="26px" src="https://user-images.githubusercontent.com/97831613/178946148-dce9b0c1-40aa-408d-b027-1c44a373eb07.png" />](https://telegram.im/@coolbro_0)
+<!-- [<img align="left" alt="Github" width="100px" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />][github]  -->
 
-[<img align="left" alt="Website" width="26px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" />](https://coolbro.bio.link) 
+[<img align="left" alt="Website" width="26px" src="https://cdn-icons-png.flaticon.com/512/2721/2721725.png" />][website] 
+
+[<img align="left" alt="Twitter" width="26px" src="https://cdn-icons-png.flaticon.com/512/725/725311.png" />][twitter] 
+
+[<img align="left" alt="LinkedIN" width="26px" src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" />][linkedin]
+
+[<img align="left" alt="Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram] 
+
+[<img align="left" alt="YouTube" width="26px" src="https://cdn-icons-png.flaticon.com/512/1383/1383260.png" />][youtube]
+
+[<img align="left" alt="Telegram" width="26px" src="https://cdn-icons-png.flaticon.com/512/3670/3670070.png" />][telegram]
 
 <br/>
 <hr>
 
-##  Languages and Tools I use 🛠️
-<img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" />
-<img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" />
-<img align="left" alt="Github" width="30px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons.flaticon.com/png/512/3098/premium/3098090.png?token=exp=1658208337~hmac=9eae51c5898d82ed52b4a814be95b1fc" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="Github" width="40px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
-<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" />
+##  **Languages and Tools I use 🛠️**
+<img align="left" alt="VS Code" width="30px" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" />
 
+<img align="left" alt="Github" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919847.png" />
+
+<img align="left" alt="Git Version Control" width="30px" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" />
+
+<img align="left" alt="CLI" width="30px" src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg" />
+
+<img align="left" alt="Linux" width="30px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" />
+
+<img align="left" alt="Python" width="30px" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" />
+
+<img align="left" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+
+<img align="left" alt="Go" width="40px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
+
+<img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" />
+
+<img align="left" alt="Kubernetes" width="50px" src="https://1000logos.net/wp-content/uploads/2022/07/Kubernetes-Logo.png" />
+
+<img align="left" alt="Docker" width="70px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 <br/>
@@ -64,3 +89,11 @@ Here are some ideas to get you started:
 <p align="center">
 https://twitter.com/_soham_gupta
 </p>
+
+[twitter]: https://twitter.com/_soham_gupta
+[linkedin]: https://linkedin.com/in/soham-gupta-in
+[github]: https://github.com/gupta-soham
+[youtube]: https://www.youtube.com/channel/UCPsRTWjuoocFwf6JhZvRrSQ?view_as=subscriber?sub_confirmation=1
+[telegram]: https://telegram.im/@coolbro_0
+[instagram]: https://instagram.com/_soham_gupta
+[website]: https://coolbro.bio.link
