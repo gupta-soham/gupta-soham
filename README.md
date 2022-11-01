@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [List of Heroku Alternatives You Should Consider](https://sohamgupta.hashnode.dev/list-of-heroku-alternatives)
+- [What exactly is DevOps?](https://sohamgupta.hashnode.dev/what-is-devops)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
