@@ -85,25 +85,16 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- ## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [How to install Python 3.7.0 | CoolBro - &quot;Behold Breath&quot;](https://www.youtube.com/watch?v=GtHOQtFYe8k)
-- [Acer Aspire 3 [Best Budget Laptop] | CoolBro - &quot;Behold Breath&quot;](https://www.youtube.com/watch?v=U-7fauacQu4)
-- [Html Programming Part 2[Adding Hyperlinks, Hypertexts, Images]](https://www.youtube.com/watch?v=yGEF6v_5uRA)
-- [HTML Programming - Part 1 [Basics Of HTML, Adding Background To It]](https://www.youtube.com/watch?v=EnOqentnN7Q)
-- [#IntroOutro Video](https://www.youtube.com/watch?v=U_bjOARF6y8)
-<!-- YOUTUBE:END -->
+<!-- ## 📺 Latest YouTube Videos -->
 
 <br />
 
-<!-- <details>
+<details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Soham Gupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gupta-soham&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 &hide=stars &theme=tokyonight"/>
+  <img align="left" alt="Soham Gupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gupta-soham&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&hide=stars&theme=tokyonight"/>
 
-</details> -->
-
-<img align="left" alt="Soham Gupta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gupta-soham&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 &hide=stars &theme=tokyonight"/>
+</details>
 
 <br />
 <hr>
