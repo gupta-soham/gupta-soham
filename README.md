@@ -115,7 +115,9 @@ https://twitter.com/_soham_gupta
 [linkedin]: https://linkedin.com/in/soham-gupta-in
 [github]: https://github.com/gupta-soham
 [youtube]: https://www.youtube.com/channel/UCPsRTWjuoocFwf6JhZvRrSQ?view_as=subscriber?sub_confirmation=1
+
 <-- [telegram]: https://telegram.im/@coolbro_0 -->
+
 [telegram]: https://telegram.me/ComputerScienceAndEngg
 [instagram]: https://instagram.com/_soham_gupta
 [website]: https://coolbro.bio.link
