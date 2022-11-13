@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Go" width="40px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" />
 
-<img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png" />
+<img align="left" alt="SQL" width="30px" src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" />
 
-<img align="left" alt="Kubernetes" width="50px" src="https://user-images.githubusercontent.com/97831613/199302495-69cf68f3-17a2-482d-8314-f8ba11f678e0.png" />
+<img align="left" alt="Kubernetes" width="40px" src="https://user-images.githubusercontent.com/97831613/199302495-69cf68f3-17a2-482d-8314-f8ba11f678e0.png" />
 
-<img align="left" alt="Docker" width="70px" src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" />
+<img align="left" alt="Docker" width="40px" src="https://user-images.githubusercontent.com/97831613/201539153-fb65792f-99cb-4cd0-af9f-95a3c3fac108.png" />
 
 <br />
 <br />
