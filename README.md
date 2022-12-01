@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Experience at KubeCon NA 2022](https://sohamgupta.hashnode.dev/my-kubecon-experience-na-2022)
 - [List of Heroku Alternatives You Should Consider](https://sohamgupta.hashnode.dev/list-of-heroku-alternatives)
 - [What exactly is DevOps?](https://sohamgupta.hashnode.dev/what-is-devops)
 <!-- BLOG-POST-LIST:END -->
