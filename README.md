@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ##  **Hi there, I'm Soham Gupta 👋**
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with people and learn from their mistakes
-- 🥅 2022 Goals: Learn about Open Source
+- 🥅 2023 Goals: Contribute to Open Source and Join Global Communitites
 - ⚡ Fun fact: I love to travel a lot 🗺️ 🛫
 
 <br/>
